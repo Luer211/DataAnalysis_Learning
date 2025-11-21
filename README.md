@@ -1,4 +1,4 @@
-# 🐍📊 Python 数据分析学习项目
+# Python 数据分析学习项目
 
 <p align="center">
   <img src="assets/cover.png" width="80%">
