@@ -1,0 +1,8 @@
+{
+  "products": [
+    {
+      "id": "P1",
+      "name": "Product 1",
+      "category": "Food",
+      "price": 111.25,
+      "in_stock": 
