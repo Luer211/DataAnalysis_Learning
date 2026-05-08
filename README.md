@@ -1,7 +1,7 @@
 # Python 数据分析学习项目
 
 <p align="center">
-  <img src="assets/cover.png" width="80%">
+  <img src="assets/cover2.png" width="80%">
 </p>
 
 <p align="center">
